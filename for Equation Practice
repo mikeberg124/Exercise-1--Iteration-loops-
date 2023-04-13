@@ -1,0 +1,48 @@
+for(int i=0; i <5; i++);
+console.writeline($"{i}");
+
+for(int i=0; i<5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i=0;i<5;i++);
+System.Console.WriteLine($"{i}");
+
+for(int i=o; i <5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i=0, i<5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i=0;i<5,i++);
+System.Console.WriteLine($"{i}");
+
+for(int i=0; i<5; i++)
+System.Console.WriteLine($"{i}");
+
+for(int i=0;i<5;i++);
+System.Console.WriteLine($"{i}");
+
+for(int i=0; i<5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i =0; i <5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i =0; i <5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i =0; i <5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i =0; i <5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i =0; i <5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i =0; i <5; i++);
+System.Console.WriteLine($"{i}");
+
+for(int i =0; i<5; i++);
+for(int i =0; i <5; i++);
+System.Console.WriteLine($"{i}");
